@@ -1,0 +1,10 @@
+{
+    "name": "connect",
+    "description": "connectExt",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "icon": {
+        "16": "img/handshake.png"
+
+    }
+}
